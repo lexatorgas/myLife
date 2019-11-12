@@ -130,4 +130,4 @@ C:\Users\alex_e\Desktop\myLife\LifeCore\LifeCore\bin\Debug\netcoreapp3.0\Renci.S
 C:\Users\alex_e\Desktop\myLife\LifeCore\LifeCore\bin\Debug\netcoreapp3.0\SshNet.Security.Cryptography.dll
 C:\Users\alex_e\Desktop\myLife\LifeCore\LifeCore\bin\Debug\netcoreapp3.0\System.Resources.Extensions.dll
 C:\Users\alex_e\Desktop\myLife\LifeCore\LifeCore\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
-C:\Users\alex_e\Desktop\myLife\LifeCore\LifeCore\obj\Debug\netcoreapp3.0\LifeCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alex_e\Desktop\myLife\LifeCore\LifeCore\bin\Debug\netcoreapp3.0\Autofac.dll
